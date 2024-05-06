@@ -1,0 +1,268 @@
+4	Go Blank
+4	Kiora's Follower
+3	Phoenix Chick
+2	Mind Funeral
+4	Paradise Mantle
+4	Puresight Merrow
+4	Destiny Spinner
+4	Discovery // Dispersal
+4	Enterprising Scallywag
+4	Buried Ruin
+4	Manifold Key
+3	Throne of Geth
+1	Copper Host Crusher
+4	Liliana's Caress
+4	Kitesail Freebooter
+4	Despark
+4	Omen Hawker
+2	Dreams of Steel and Oil
+3	Azorius Signet
+4	Dimir Signet
+4	Simic Signet
+4	Flickerwisp
+4	Glassdust Hulk
+2	Rip Apart
+3	Tough Cookie
+3	Gleaming Geardrake
+4	Essence Flux
+4	Ingenious Infiltrator
+4	Young Pyromancer
+3	Titan's Presence
+4	Duskmantle Guildmage
+3	Mindcrank
+2	Plaguecrafter
+1	Lightning Greaves
+1	Dryad Militant
+3	Tireless Provisioner
+4	Diregraf Ghoul
+4	Stormchaser Drake
+1	Time of Need
+4	Veil of Summer
+3	Paradise Druid
+2	Hordeling Outburst
+4	Esper Charm
+4	Trophy Mage
+3	Sphere of the Suns
+1	Case of the Shattered Pact
+2	Forgeborn Oreads
+4	Jukai Naturalist
+4	Untamed Kavu
+2	Undead Butler
+1	Back for Seconds
+4	Monstrous Rage
+4	Wild Slash
+1	Honest Rutstein
+3	Lively Dirge
+4	Obscura Charm
+1	Heartless Act
+1	Explorer's Cache
+2	Lavaspur Boots
+4	Magebane Lizard
+4	Forsaken Miner
+1	Shoot the Sheriff
+4	Resolute Reinforcements
+2	Spinewoods Armadillo
+2	Izzet Staticaster
+4	Wear // Tear
+4	Leonin Relic-Warder
+4	Change the Equation
+4	Nephalia Academy
+2	Whack
+1	Filter Out
+4	Destructive Revelry
+4	Damping Sphere
+2	Circuit Mender
+3	Cerulean Drake
+1	Manriki-Gusari
+2	Eliminate
+3	Tear Asunder
+1	Ignite Memories
+3	Harmonic Sliver
+2	Fact or Fiction
+2	Goblin Cratermaker
+4	Soul-Guide Lantern
+4	Tormod's Crypt
+4	Halo Forager
+1	Deep-Cavern Bat
+3	Invasive Surgery
+1	Cut Down
+2	Blessed Alliance
+1	Flame Sweep
+2	Thought Distortion
+1	Defabricate
+1	Blightbeetle
+1	Savage Alliance
+2	Flame Blitz
+2	Atraxa's Skitterfang
+4	Blossoming Calm
+4	Ceremonious Rejection
+2	Unflinching Courage
+3	Reclamation Sage
+4	Crumble to Dust
+4	Searing Blood
+4	Dragon's Claw
+2	Shriekmaw
+2	Vedalken Plotter
+2	A Little Chat
+1	Shatter Assumptions
+3	Timely Reinforcements
+3	Whipflare
+2	Ertai's Scorn
+1	Filigree Sages
+3	Unified Will
+1	Shrine of Burning Rage
+1	Nebelgast Herald
+1	Noxious Grasp
+1	Meteor Golem
+4	Break the Ice
+1	Gaea's Blessing
+1	Volcanic Fallout
+3	Lightning Axe
+2	Back to Nature
+4	Lithoform Blight
+4	Shattering Spree
+2	Qasali Ambusher
+2	Crush the Weak
+1	Dusk Rose Reliquary
+3	Firespout
+3	Cry of the Carnarium
+2	Rapid Hybridization
+3	Bill the Pony
+3	Crackling Drake
+1	Ground Assault
+3	Vampire Hexmage
+4	Wild Shape
+3	Lantern of the Lost
+2	Sentinel's Mark
+1	Wash Away
+3	Sorcerous Spyglass
+4	Aether Gust
+3	Boil
+4	Miscast
+3	Burning Hands
+3	Fry
+1	Lazotep Plating
+4	Kor Firewalker
+2	Tuktuk Scrapper
+1	Knight of Dusk's Shadow
+2	Sin Collector
+2	Purify the Grave
+1	Archipelagore
+1	Dreadmaw's Ire
+4	Wanted Scoundrels
+3	Keen-Eared Sentry
+2	Big Game Hunter
+3	Perilous Voyage
+2	Unravel the Aether
+1	Orzhov Charm
+3	Pull from Eternity
+2	Twinshot Sniper
+1	Dawnglow Infusion
+3	Unstable Footing
+2	Devout Chaplain
+4	Minor Misstep
+1	Dovin, Hand of Control
+2	Malicious Eclipse
+1	Flashfires
+4	Pieces of the Puzzle
+2	Flames of the Blood Hand
+1	Sudden Death
+3	Knockout Blow
+2	Thornscape Battlemage
+2	Kraul Whipcracker
+3	Fiery Inscription
+2	Witchstalker Frenzy
+4	Hibernation
+2	Heap Doll
+1	Drown in Sorrow
+4	Test of Talents
+2	Lightning Storm
+4	Countersquall
+2	Squelch
+4	Foundation Breaker
+2	Pongify
+2	Profane Memento
+4	Choke
+3	Self-Inflicted Wound
+3	Liliana's Defeat
+1	Judge's Familiar
+1	Eidolon of Rhetoric
+2	Set Adrift
+3	Magic Missile
+1	Cogwork Assembler
+3	Long Goodbye
+4	Dispatch
+2	Guttural Response
+2	Autumn's Veil
+1	Dokuchi Silencer
+1	Wipe Away
+1	Frodo Baggins
+3	Trygon Predator
+3	Beast Within
+4	Turn the Earth
+1	Sudden Shock
+2	By Force
+1	Lithomantic Barrage
+2	Memory's Journey
+2	Glistening Deluge
+2	Warleader's Helix
+2	Pick the Brain
+3	Pyroclasm
+1	Feldon's Cane
+4	Fracture
+3	Spatial Contortion
+2	Unchained Berserker
+1	Agatha's Champion
+2	Mire Triton
+4	Ravenous Trap
+2	Weathered Runestone
+4	Stoke the Flames
+2	Spectrum Sentinel
+3	Whitewater Naiads
+3	Hit // Run
+1	Unlicensed Disintegration
+2	Rain of Tears
+1	Boom Box
+3	War Priest of Thune
+2	Requisition Raid
+4	Consign // Oblivion
+2	Chandra's Defeat
+4	Delay
+4	Spikefield Hazard // Spikefield Cave
+4	Bala Ged Recovery // Bala Ged Sanctuary
+4	Silundi Vision // Silundi Isle
+4	Tangled Florahedron // Tangled Vale
+4	Beyeen Veil // Beyeen Coast
+4	Jwari Disruption // Jwari Ruins
+4	Umara Wizard // Umara Skyfalls
+3	Ambitious Farmhand // Seasoned Cathar
+4	Pelakka Predation // Pelakka Caverns
+4	Malakir Rebirth // Malakir Mire
+2	Dowsing Device // Geode Grotto
+4	Saheeli's Lattice // Mastercraft Raptor
+4	Kumano Faces Kakkazan // Etching of Kumano
+2	Cheeky House-Mouse // Squeak By
+2	Sejiri Shelter // Sejiri Glacier
+1	Threadbind Clique // Rip the Seams
+1	Woodland Acolyte // Mend the Wilds
+1	Frolicking Familiar // Blow Off Steam
+4	Shrouded Shepherd // Cleave Shadows
+4	Twinblade Geist // Twinblade Invocation
+4	Akoum Warrior // Akoum Teeth
+4	Heir of Falkenrath // Heir to the Night
+4	Invasion of Amonkhet // Lazotep Convert
+4	Invasion of Ergamon // Truga Cliffcharger
+2	Song-Mad Treachery // Song-Mad Ruins
+2	Michiko's Reign of Truth // Portrait of Michiko
+3	Duskwatch Recruiter // Krallenhorde Howler
+2	Hearth Elemental // Stoke Genius
+4	Imodane's Recruiter // Train Troops
+3	Picklock Prankster // Free the Fae
+3	Invasion of Mercadia // Kyren Flamewright
+1	Lodestone Needle // Guidestone Compass
+2	Invasion of Azgol // Ashen Reaper
+2	Blackbloom Rogue // Blackbloom Bog
+1	Visage of Dread // Dread Osseosaur
+2	Stormkeld Vanguard // Bear Down
+4	Outland Liberator // Frenzied Trapbreaker
+2	Chalice of Life // Chalice of Death

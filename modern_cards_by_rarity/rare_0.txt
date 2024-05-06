@@ -1,0 +1,405 @@
+4	Blood Crypt
+4	Dauthi Voidwalker
+4	Orcish Bowmasters
+4	Polluted Delta
+4	Verdant Catacombs
+4	Arid Mesa
+4	Leyline Binding
+4	Lightning Bolt
+4	Chord of Calling
+4	Delighted Halfling
+4	Wall of Roots
+1	Zulaport Cutthroat
+4	Amulet of Vigor
+4	Dryad of the Ilysian Grove
+1	Slayers' Stronghold
+4	Summoner's Pact
+4	The Mycosynth Gardens
+4	Urza's Saga
+4	Emry, Lurker of the Loch
+4	Jeskai Ascendancy
+4	Scalding Tarn
+4	Arcbound Ravager
+4	Hangarback Walker
+4	Hardened Scales
+4	Inkmoth Nexus
+4	Walking Ballista
+4	Zabaz, the Glimmerwasp
+4	Anointed Peacekeeper
+4	Giver of Runes
+4	Leonin Arbiter
+1	Sword of Fire and Ice
+4	Goblin Guide
+4	Inspiring Vantage
+4	Roiling Vortex
+4	Skullcrack
+4	Sunbaked Canyon
+4	Expedition Map
+4	Karn, the Great Creator
+4	Eidolon of the Great Revel
+4	Fatal Push
+2	Hive of the Eye Tyrant
+4	March of Wretched Sorrow
+4	Bloodstained Mire
+4	Death's Shadow
+4	Expressive Iteration
+4	Esper Sentinel
+4	Puresteel Paladin
+4	Sigarda's Aid
+4	Fire // Ice
+4	Flooded Strand
+4	Teferi, Time Raveler
+4	Underworld Breach
+4	Asmoranomardicadaistinaculdacar
+4	Inti, Seneschal of the Sun
+4	Sunken Citadel
+4	Ignoble Hierarch
+4	Sylvan Scrying
+4	Flame of Anor
+4	Snapcaster Mage
+4	Spirebluff Canal
+4	Eladamri's Call
+4	Horizon Canopy
+3	Lair of the Hydra
+1	Willow Geist
+4	Windswept Heath
+4	Enchantress's Presence
+1	Hall of Heliod's Generosity
+4	On Thin Ice
+4	Sanctum Weaver
+1	Sigil of the Empty Throne
+4	Snow-Covered Plains
+4	Sythis, Harvest's Hand
+4	Watery Grave
+1	Jace, Wielder of Mysteries
+4	Shardless Agent
+4	Sleep-Cursed Faerie
+4	Steam Vents
+4	Blackcleave Cliffs
+1	The Reality Chip
+4	Blooming Marsh
+4	Profane Tutor
+4	Urborg, Tomb of Yawgmoth
+4	Archive Trap
+4	Drown in the Loch
+4	Fractured Sanity
+1	Mikokoro, Center of the Sea
+4	Ruin Crab
+4	Soul-Scar Mage
+4	Tishana's Tidebinder
+4	Eldritch Evolution
+1	Geralf's Messenger
+4	Concealed Courtyard
+4	Ephemerate
+4	Godless Shrine
+4	Marsh Flats
+4	Silent Clearing
+4	Narset, Parter of Veils
+4	Witherbloom Command
+4	Ledger Shredder
+4	Aether Vial
+4	Deeproot Pilgrimage
+4	Mutavault
+4	Rishadan Dockhand
+4	Vodalian Hexcatcher
+4	Knight-Errant of Eos
+4	Venerated Loxodon
+1	Academy Ruins
+1	Basilisk Collar
+4	Mystic Forge
+4	Serum Powder
+4	Spellskite
+4	Force of Negation
+4	Goryo's Vengeance
+4	Harbinger of the Tides
+4	Lord of Atlantis
+1	Consume the Meek
+4	Boseiju, Who Endures
+4	Abundant Harvest
+4	Stomping Ground
+4	Visions of Beyond
+4	Explore
+4	Noble Hierarch
+4	Razorverge Thicket
+4	Temple Garden
+4	Invoke Despair
+4	City of Brass
+4	Prized Amalgam
+4	Stalactite Stalker
+4	Persist
+4	Tasha's Hideous Laughter
+4	Seachrome Coast
+4	Chalice of the Void
+4	Eldrazi Temple
+4	Matter Reshaper
+4	Thought-Knot Seer
+2	Ozolith, the Shattered Spire
+4	Karplusan Forest
+4	Trumpeting Carnosaur
+4	Academy Manufactor
+4	Collected Company
+4	Gilded Goose
+4	Lonis, Cryptozoologist
+4	Samwise Gamgee
+4	Wasteland Strangler
+4	Archmage's Charm
+4	Shark Typhoon
+4	Territorial Kavu
+4	Tameshi, Reality Architect
+4	Wargate
+4	Dragonstorm
+4	Irencrag Feat
+4	Lotus Bloom
+4	Sulfur Falls
+2	Sickening Shoal
+4	Warden of the Inner Sky
+4	Autochthon Wurm
+4	Calibrated Blast
+4	Cascade Bluffs
+4	Graven Cairns
+4	Shadow of Mortality
+3	Temporary Lockdown
+4	Goblin Charbelcher
+4	Pact of Negation
+4	Blinkmoth Nexus
+4	Dismember
+4	Eldrazi Mimic
+4	Eternal Scourge
+4	Reality Smasher
+4	Archon of Emeria
+3	Extraction Specialist
+4	Strict Proctor
+4	Bloodghast
+4	Gravecrawler
+4	Souls of the Lost
+2	Mirrex
+2	Werefox Bodyguard
+4	Arbor Elf
+4	Auriok Champion
+1	Mikaeus, the Lunarch
+4	Champion of the Parish
+4	Hopeful Initiate
+4	Reflector Mage
+4	Thalia's Lieutenant
+2	Creeping Tar Pit
+3	Fallen Shinobi
+4	Traverse the Ulvenwald
+4	Lotus Field
+4	Spell Queller
+4	Birds of Paradise
+4	Glittering Wish
+4	Sylvan Caryatid
+1	Titania, Protector of Argoth
+1	Bolas's Citadel
+4	Faith's Reward
+4	Reshape
+4	Waste Not
+2	Sunken Hollow
+4	Thought Monitor
+4	Dress Down
+2	Hall of Storm Giants
+4	Bring to Light
+4	Valakut, the Molten Pinnacle
+4	Springleaf Drum
+4	Treasure Vault
+4	Darkslick Shores
+4	Sauron's Ransom
+4	Mantis Rider
+4	Thieves' Guild Enforcer
+4	Memory Deluge
+2	Xander's Lounge
+4	Surgical Extraction
+4	Narcomoeba
+4	Blighted Agent
+4	Venerated Rotpriest
+4	Glimpse the Unthinkable
+4	Waterlogged Grove
+4	Mausoleum Wanderer
+2	Moorland Haunt
+4	Rattlechains
+4	Supreme Phantom
+4	Shacklegeist
+4	Skyclave Apparition
+4	Unsettled Mariner
+4	Elvish Warmaster
+4	Heritage Druid
+4	Leaf-Crowned Visionary
+3	Realmwalker
+4	Conspicuous Snoop
+1	Krenko, Mob Boss
+1	Lightning Crafter
+4	Wish
+4	Astral Cornucopia
+4	Spire of Industry
+4	Yavimaya Coast
+3	Scion of Oona
+4	Auntie's Hovel
+4	Meddling Mage
+4	Hallowed Fountain
+4	Daybreak Coronet
+4	Cragganwick Cremator
+4	Sacred Foundry
+1	Cave of the Frost Dragon
+1	Eiganjo Castle
+3	Spirit of the Labyrinth
+4	Priest of Fell Rites
+4	Unmarked Grave
+4	Elvish Archdruid
+4	Seismic Assault
+4	Boom // Bust
+4	Yargle and Multani
+4	Get Lost
+4	Baral, Chief of Compliance
+4	Gifts Ungiven
+2	Sylvan Anthem
+3	Sokenzan, Crucible of Defiance
+4	Castle Garenbrig
+1	Deserted Beach
+4	Angel's Grace
+4	Spoils of the Vault
+4	Thassa's Oracle
+4	Cloudshredder Sliver
+4	Galerider Sliver
+4	Predatory Sliver
+4	Sliver Hive
+4	Elvish Reclaimer
+4	Lingering Souls
+4	Boseiju, Who Shelters All
+4	Ketria Triome
+4	Through the Breach
+2	Jinnie Fay, Jetmir's Second
+4	Baleful Mastery
+2	Kefnet's Last Word
+4	Shelldock Isle
+4	Wishclaw Talisman
+4	Thalia, Guardian of Thraben
+4	Sentinel of the Nameless City
+1	Nimbus Maze
+4	Rise and Shine
+1	Goblin Chieftain
+3	Pyre of Heroes
+4	Disrupting Shoal
+4	Selective Memory
+1	Migloz, Maze Crusher
+4	Botanical Sanctum
+4	Rugged Prairie
+4	Adeline, Resplendent Cathar
+4	Force of Virtue
+4	Shining Shoal
+2	Vindictive Flamestoker
+4	Oath of Nissa
+2	Takenuma, Abandoned Mire
+2	Titans' Nest
+4	Overgrown Tomb
+4	Blood Moon
+4	Brought Back
+1	The Eternal Wanderer
+4	Drannith Magistrate
+4	Molten Collapse
+4	Lightning Skelemental
+4	Thunderkin Awakener
+4	Rundvelt Hordemaster
+4	Boros Reckoner
+2	Restless Spire
+4	An Offer You Can't Refuse
+2	Song of Creation
+4	Prismari Command
+4	Ensnaring Bridge
+3	Sai, Master Thopterist
+3	Boromir, Warden of the Tower
+1	Intervention Pact
+4	Liberator, Urza's Battlethopter
+1	Kessig Wolf Run
+4	Knight of the Reliquary
+4	Flamekin Harbinger
+4	Primal Beyond
+4	Flagstones of Trokair
+4	Fulminator Mage
+4	Vexing Devil
+4	Planebound Accomplice
+1	Kemba, Kha Enduring
+3	Retreat to Coralhelm
+4	Green Sun's Twilight
+3	Kayla's Reconstruction
+1	Shizo, Death's Storehouse
+3	Eiganjo, Seat of the Empire
+4	Glistener Elf
+4	Scale Up
+4	March of Otherworldly Light
+2	Response // Resurgence
+4	Shadow of Doubt
+4	Ethersworn Canonist
+2	Glorybringer
+1	The Akroan War
+1	White Sun's Zenith
+4	Grisly Salvage
+3	Squirming Emergence
+4	Sedge Sliver
+4	Elven Chorus
+2	Ezuri, Renegade Leader
+4	Gilt-Leaf Palace
+2	Castle Vantress
+2	Gala Greeters
+4	Hope of Ghirapur
+4	Malcolm, Alluring Scoundrel
+4	Phantasmal Image
+3	Reason // Believe
+4	Commandeer
+4	Temple of Epiphany
+1	A Tale for the Ages
+1	Planewide Celebration
+1	Workshop Warchief
+1	Woe Strider
+4	Nettlecyst
+4	Carth the Lion
+4	Plaza of Heroes
+4	Dramatic Entrance
+2	Cyclonic Rift
+4	Amalia Benavides Aguirre
+2	Llanowar Wastes
+1	Desolate Lighthouse
+1	Electrolyze
+2	Goblin Dark-Dwellers
+1	Restless Anchorage
+4	Castle Locthwain
+4	Phyrexian Crusader
+3	Castle Embereth
+4	Den of the Bugbear
+1	Legion Warboss
+4	Mishra's Foundry
+2	Pashalik Mons
+2	Squee, Dubious Monarch
+4	Hollow One
+4	Life from the Loam
+4	Cryptic Command
+4	Supreme Verdict
+1	Scrapyard Recombiner
+2	Ascendant Spirit
+1	Faceless Haven
+4	Ice-Fang Coatl
+3	Marit Lage's Slumber
+2	Scrying Sheets
+4	Ancestral Vision
+4	Maddening Cacophony
+4	All Is Dust
+4	Echoing Deeps
+2	Eldrazi Conscription
+4	Glacial Fortress
+4	Kor Spiritdancer
+2	Savai Triome
+2	Reforge the Soul
+2	River of Tears
+3	Dromoka's Command
+4	Light-Paws, Emperor's Voice
+4	Flowering of the White Tree
+3	Kari Zev, Skyship Raider
+4	Merry, Esquire of Rohan
+3	Melira, the Living Cure
+2	Shalai, Voice of Plenty
+4	Electrodominance
+2	Kari Zev's Expertise
+4	Knight of the Ebon Legion
+4	The Huntsman's Redemption
+4	Copperline Gorge
+2	Erebos's Intervention
+1	Hinterland Harbor

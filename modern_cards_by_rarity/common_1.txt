@@ -1,0 +1,132 @@
+4	Virulent Sliver
+2	Big Score
+4	Lazotep Reaver
+4	Ephara's Dispersal
+4	Rune Snag
+4	Trespasser's Curse
+1	Bone Splinters
+3	Commune with the Gods
+4	Mogg Fanatic
+2	First Day of Class
+4	Imposing Vantasaur
+4	Dauthi Slayer
+4	Fiery Temper
+4	Fertile Ground
+4	Chatterstorm
+3	Tamiyo's Safekeeping
+3	Keldon Marauders
+4	Ichor Wellspring
+4	Bristling Backwoods
+4	Jagged Barrens
+1	Hooting Mandrills
+3	Shore Up
+4	Faithless Salvaging
+4	Highway Robbery
+3	Izzet Boilerworks
+4	Swiftwater Cliffs
+4	Fanatical Firebrand
+4	Flame Rift
+1	Echoing Calm
+4	Seal of Cleansing
+2	Suture Priest
+3	Cast into the Fire
+3	Dawnbringer Cleric
+3	Echoing Truth
+1	Ancestral Statue
+3	Wilt
+2	Stony Strength
+1	Circle of Protection: Red
+3	Empty the Warrens
+2	Ray of Revelation
+1	Life Goes On
+1	Mine Collapse
+1	Deconstruct
+1	Healer of the Glade
+1	Shenanigans
+2	Blightning
+2	Disdainful Stroke
+2	Doom Blade
+3	Shrapnel Slinger
+4	Natural State
+2	Wispmare
+2	Magmatic Chasm
+4	Raze the Effigy
+3	Dawn Charm
+1	Leave No Trace
+1	Heated Debate
+3	Galvanic Relay
+1	Atraxa's Fall
+3	Cathar Commando
+2	Seismic Stomp
+3	Pyrite Spellbomb
+2	Revoke Existence
+1	Speakeasy Server
+1	Overgrown Pest
+1	Giant Spider
+4	Steel Sabotage
+1	Adventurous Impulse
+3	Feed the Clan
+4	Naturalize
+1	Dissenter's Deliverance
+1	Fiery Cannonade
+2	Dash Hopes
+4	Contaminated Ground
+1	Shock
+4	Masked Vandal
+2	Plummet
+3	Fog
+1	Search Warrant
+2	Erase
+4	Blacksmith's Skill
+1	Prophetic Prism
+1	Spidersilk Net
+4	Nihil Spellbomb
+1	Darkness
+2	Patrician's Scorn
+1	Krark-Clan Shaman
+3	Reality Hemorrhage
+2	Warren Weirding
+1	Light of Hope
+1	Sunder the Gateway
+2	Teferi's Time Twist
+2	Dispel
+1	Mephitic Vapors
+3	Witness Protection
+3	Void Snare
+3	Sea's Claim
+2	Outwit
+2	Shred Memory
+4	Boomerang
+1	Shattering Blow
+1	Discerning Taste
+3	Run Afoul
+1	Inkling Summoning
+4	Annul
+3	Seal of Primordium
+1	Break Ties
+4	Crypt Incursion
+1	Wear Away
+4	Fragmentize
+1	Benalish Sleeper
+4	Faerie Macabre
+4	Beloved Princess
+3	Ingot Chewer
+1	Overwhelming Remorse
+2	Pitfall Trap
+1	Scatter Ray
+4	Mudbutton Torchrunner
+4	Grim Guardian
+1	Subtle Strike
+2	Alpine Watchdog
+3	Spore Frog
+2	Rotten Reunion
+2	Negate
+4	Merfolk Secretkeeper // Venture Deeper
+4	Okiba Reckoner Raid // Nezumi Road Captain
+4	Delver of Secrets // Insectile Aberration
+2	Besotted Knight // Betroth the Beast
+2	Oteclan Landmark // Oteclan Levitator
+4	Merchant of the Vale // Haggle
+4	Baithook Angler // Hook-Haunt Drifter
+1	Tithing Blade // Consuming Sepulcher
+1	Grabby Giant // That's Mine

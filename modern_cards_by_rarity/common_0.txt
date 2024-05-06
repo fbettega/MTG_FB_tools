@@ -1,0 +1,539 @@
+4	Not Dead After All
+4	Dwarven Mine
+4	Spell Pierce
+4	Young Wolf
+4	Arboreal Grazer
+4	Golgari Rot Farm
+4	Simic Growth Chamber
+4	Forest
+4	Unholy Heat
+4	Lava Spike
+4	Monastery Swiftspear
+4	Rift Bolt
+4	Searing Blaze
+4	Skewer the Critics
+4	Urza's Mine
+4	Urza's Power Plant
+4	Counterspell
+4	Mountain
+4	Street Wraith
+4	Preordain
+4	Spellstutter Sprite
+4	Khalni Garden
+4	Lava Dart
+4	Swamp
+4	Island
+4	Lórien Revealed
+4	Plains
+4	Chromatic Star
+4	Goblin Bushwhacker
+4	Halo Hopper
+4	Kuldotha Rebirth
+4	Thraben Inspector
+4	Voldaren Epicure
+4	Snow-Covered Island
+4	Fallaji Archaeologist
+3	Mystical Teachings
+4	Goblin Anarchomancer
+4	Manamorphose
+4	Wrenn's Resolve
+4	Cathartic Reunion
+4	Stinkweed Imp
+2	Go for the Throat
+4	Troll of Khazad-dûm
+4	Snow-Covered Forest
+4	Wild Nacatl
+4	Pyretic Ritual
+4	Sunscorched Desert
+4	Eagles of the North
+2	Kami of False Hope
+4	Experimental Synthesizer
+4	Goblin Grenade
+4	Search for Tomorrow
+4	Otherworldly Gaze
+4	Consider
+4	Dream's Grip
+4	Twiddle
+3	Cerulean Wisps
+4	Conjurer's Bauble
+4	Golden Egg
+4	Generous Ent
+4	Abundant Growth
+4	Burning Inquiry
+4	Feed the Swarm
+4	Razortide Bridge
+2	Wastes
+4	Frogmite
+4	Mistvault Bridge
+4	Thought Scour
+4	Relic of Progenitus
+4	Myr Enforcer
+4	Sojourner's Companion
+4	Thoughtcast
+2	Distortion Strike
+4	Snakeskin Veil
+4	Vines of Vastwood
+4	Vizier of Tumbling Sands
+4	Llanowar Elves
+4	Nettle Sentinel
+4	Sakura-Tribe Elder
+4	Spell Stutter
+4	Skirk Prospector
+4	Farseek
+4	Ethereal Armor
+4	Gladecover Scout
+4	Slippery Bogle
+4	Mogg War Marshal
+4	Bitter Reunion
+3	Bone Shards
+3	Ransack the Lab
+4	Raven's Crime
+4	Cleansing Wildfire
+4	Silverbluff Bridge
+4	Goblin Electromancer
+4	Hyena Umbra
+4	Elvish Mystic
+4	Hidden Volcano
+4	Tome Scour
+4	Pentad Prism
+4	Sinew Sliver
+4	Crystal Grotto
+4	Desert
+4	Tranquil Thicket
+4	Bojuka Bog
+1	Torch the Tower
+4	Seed of Hope
+4	Snapback
+1	Flayer Husk
+4	Condescend
+4	Hidden Strings
+4	Unearth
+4	Seal of Fire
+2	Thunderous Wrath
+4	Ancient Grudge
+3	Step Through
+3	Blood Fountain
+4	Flame Slash
+4	Village Rites
+4	Balustrade Spy
+4	Feign Death
+1	Smokebraider
+1	Peek
+4	Drossforge Bridge
+1	Goldmire Bridge
+2	Wizard's Rockets
+1	Sejiri Steppe
+4	Goblin Tomb Raider
+4	Growth Spiral
+3	Sign in Blood
+4	Many Partings
+3	Raffine's Informant
+4	Bump in the Night
+3	Burst Lightning
+1	Homing Sliver
+4	Sidewinder Sliver
+4	Striking Sliver
+4	Cauldron Familiar
+1	Peer Through Depths
+2	Elemental Masterpiece
+1	Commencement of Festivities
+1	Frost Bite
+1	Frost Lynx
+1	Gaea's Gift
+1	Gift of Paradise
+1	Glittering Frost
+1	Rimefur Reindeer
+1	Sculptor of Winter
+1	Snowfield Sinkhole
+1	Snowhorn Rider
+1	Warm Welcome
+1	Workshop Assistant
+4	Reckless Impulse
+2	Viscera Seer
+4	Moonsnare Prototype
+3	Logic Knot
+4	Massive Might
+1	Frenzied Goblin
+1	Smoldering Spires
+4	Repeal
+4	Arcbound Worker
+1	Ice Tunnel
+1	Rimewood Falls
+1	Woodland Chasm
+1	Evolving Wilds
+4	Maestros Theater
+2	Mind Sculpt
+1	Halimar Depths
+4	Eel Umbra
+4	Unstable Mutation
+1	Glacial Floodplain
+4	Corridor Monitor
+2	Boulderbranch Golem
+4	Tanglepool Bridge
+4	Cram Session
+4	Snow-Covered Mountain
+4	Terminate
+4	Undying Evil
+2	Victim of Night
+4	Spreading Seas
+3	Aether Spellbomb
+4	Sleight of Hand
+4	Martyr of Sands
+4	Squadron Hawk
+4	Foundry Street Denizen
+4	Hopeless Nightmare
+4	Sovereign's Bite
+4	Mothdust Changeling
+2	Universal Automaton
+2	Gingerbread Cabin
+4	Ideas Unbound
+4	Insolent Neonate
+4	Metallic Rebuke
+2	Stonehorn Dignitary
+1	Myr Scrapling
+3	Qasali Pridemage
+2	Jack-o'-Lantern
+4	Corrupted Conviction
+2	Shambling Ghast
+4	Quirion Ranger
+4	Striped Riverwinder
+4	Windcaller Aven
+4	Healer's Hawk
+2	Inspiring Overseer
+4	Soul's Attendant
+4	Candy Trail
+3	Fruit of Tizerus
+2	Needle Drop
+4	Slagwoods Bridge
+3	Temur Battle Rage
+1	Acrobatic Maneuver
+1	Adaptive Gemguard
+1	Aegis Automaton
+1	Aether Inspector
+1	Affa Protector
+1	Alley Evasion
+1	Angelic Gift
+1	Angelic Purge
+1	Anointer Priest
+1	Apothecary Geist
+1	Archon's Glory
+1	Armory Mice
+1	Audacious Infiltrator
+1	Aviary Mechanic
+1	Bastion Enforcer
+1	Bastion Mastodon
+1	Binding Mummy
+1	Borrowed Grace
+1	Break the Spell
+1	Built to Last
+1	Cathar's Companion
+1	Caught in the Brights
+1	Chaplain's Blessing
+1	Charmed Clothier
+1	Choking Restraints
+1	Cliffside Lookout
+1	Cogworker's Puzzleknot
+1	Compulsory Rest
+1	Conviction
+1	Cooped Up
+1	Cosmium Blast
+1	Countless Gears Renegade
+1	Courier Griffin
+1	Dauntless Cathar
+1	Dawn Gryff
+1	Dawnfeather Eagle
+1	Dazzling Reflection
+1	Decommission
+1	Defiant Strike
+1	Desert of the True
+1	Desperate Sentry
+1	Devilthorn Fox
+1	Divine Verdict
+1	Djeru's Resolve
+1	Dúnedain Blade
+1	East-Mark Cavalier
+1	Eddytrail Hawk
+1	Emissary of the Sleepless
+1	Envoy of Okinec Ahau
+1	Esquire of the King
+1	Ethereal Guidance
+1	Expedition Raptor
+1	Expose Evil
+1	Faithbearer Paladin
+1	Fan Bearer
+1	Felidar Cub
+1	Fiend Binder
+1	Forsake the Worldly
+1	Fortified Rampart
+1	Frostbridge Guard
+1	Ghirapur Osprey
+1	Ghostly Sentinel
+1	Gideon's Reproach
+1	Glint-Sleeve Artisan
+1	Glorifier of Suffering
+1	Glory Seeker
+1	Gods Willing
+1	Guardian of Pilgrims
+1	Gust Walker
+1	Healing Grace
+1	Herald of the Fair
+1	Hobbit's Sting
+1	Homestead Courage
+1	Hopeful Vigil
+1	Impeccable Timing
+1	Implement of Improvement
+1	In Oketra's Name
+1	Inquisitor's Ox
+1	Inspired Charge
+1	Inspiring Captain
+1	Ironclad Slayer
+1	Ironwright's Cleansing
+1	Isolation Zone
+1	Kellan's Lightblades
+1	Kitesail Scout
+1	Knight of New Benalia
+1	Knightly Valor
+1	Kor Castigator
+1	Kor Scythemaster
+1	Kor Sky Climber
+1	Lithomancer's Focus
+1	Loran's Escape
+1	Lunarch Mantle
+1	Makindi Aeronaut
+1	Makindi Patrol
+1	Mesa Unicorn
+1	Mighty Leap
+1	Militant Inquisitor
+1	Miner's Guidewing
+1	Moment of Valor
+1	Moorland Drifter
+1	Ninth Bridge Patrol
+1	Now for Wrath, Now for Ruin!
+1	Oblivion Ring
+1	Ondu Greathorn
+1	Ondu War Cleric
+1	Pegasus Courser
+1	Petrify
+1	Plunge into Winter
+1	Pressure Point
+1	Propeller Pioneer
+1	Protective Parents
+1	Puncturing Light
+1	Return Triumphant
+1	Revoke Privileges
+1	Rhet-Crop Spearmaster
+1	Sandstone Bridge
+1	Savior of the Sleeping
+1	Searing Light
+1	Sensor Splicer
+1	Settle Beyond Reality
+1	Shadow Glider
+1	Sheer Drop
+1	Shoulder to Shoulder
+1	Sigardian Priest
+1	Skyswirl Harrier
+1	Slash of Talons
+1	Slumbering Keepguard
+1	Smite the Monstrous
+1	Soldier of the Grey Host
+1	Sparring Mummy
+1	Spawnbinder Mage
+1	Spectral Reserves
+1	Standing Troops
+1	Steadfast Cathar
+1	Stern Constable
+1	Stockpiling Celebrant
+1	Stone Haven Medic
+1	Strength of Arms
+1	Supply Caravan
+1	Survive the Night
+1	Tah-Crop Elite
+1	Tandem Tactics
+1	Tasseled Dromedary
+1	Those Who Serve
+1	Thraben Standard Bearer
+1	Thriving Ibex
+1	Tuinvale Guide
+1	Unassuming Sage
+1	Unruly Mob
+1	Unwavering Initiate
+1	Vessel of Ephemera
+1	Winged Shepherd
+4	Experimental Augury
+2	Flick a Coin
+3	Fiery Impulse
+4	Opt
+4	Wrench Mind
+3	Apostle's Blessing
+4	Assault Strobe
+4	Ground Rift
+4	Kiln Fiend
+4	All That Glitters
+4	Cartouche of Solidarity
+4	Sentinel's Eyes
+4	Commune with Dinosaurs
+1	Pulse of Murasa
+4	Great Hall of the Citadel
+4	Mulldrifter
+4	Shadow Prophecy
+2	Kruphix's Insight
+4	Infernal Plunge
+4	Call to the Netherworld
+4	Forgotten Cave
+4	Radiant Fountain
+1	Kabira Crossroads
+4	Idyllic Grange
+4	Aspect of Hydra
+4	Tarfire
+2	Journey of Discovery
+4	Plague Stinger
+4	Mana Leak
+1	Cabaretti Courtyard
+4	Khalni Heart Expedition
+4	Carrion Feeder
+1	Revitalize
+3	Spirited Companion
+1	Volatile Fjord
+3	Ram Through
+4	Defile
+2	Winding Way
+3	Brackish Blunder
+3	Geistwave
+1	Boots of Speed
+1	Springbloom Druid
+2	Tishana's Wayfinder
+4	Divest
+2	Tolarian Terror
+4	Akoum Battlesinger
+4	Halimar Excavator
+4	Ondu Cleric
+2	Soul Reap
+4	Stingscourger
+4	Rustvale Bridge
+4	Stone Rain
+1	Cavern Whisperer
+3	Dreamtail Heron
+4	Migratory Greathorn
+1	Banishing Knack
+2	Retraction Helix
+1	Nest Invader
+4	Impulse
+4	Deadly Dispute
+4	Unauthorized Exit
+1	Cliffhaven Kitesail
+4	Escape Tunnel
+4	Gaea's Might
+4	Might of Alara
+3	Elven Farsight
+4	Elvish Visionary
+4	Children of Korlis
+1	Viridian Longbow
+4	Dead // Gone
+1	Barren Moor
+4	Architects of Will
+4	Serrated Scorpion
+4	Undying Malice
+4	Gut Shot
+1	Scale of Chiss-Goria
+4	Avacyn's Pilgrim
+1	Selesnya Guildgate
+3	Duress
+1	Axebane Guardian
+4	Saruli Caretaker
+4	Fieldmist Borderpost
+4	Mistvein Borderpost
+4	Veinfire Borderpost
+2	Extract the Truth
+4	Deduce
+4	Shard Volley
+4	Groundswell
+4	Wall of Runes
+4	Omen of the Sea
+4	Thrilling Discovery
+4	Crack the Earth
+2	Vapor Snag
+4	Faerie Seer
+4	Combat Courier
+4	Myr Moonvessel
+4	Lose Focus
+1	Read the Bones
+2	Kor Outfitter
+4	Satyr Wayfinder
+4	Morselhoarder
+4	Scrapwork Mutt
+1	Child of the Volcano
+4	Novice Inspector
+4	Slitherhead
+4	Snarling Gorehound
+2	Highland Forest
+4	Into the North
+3	Aqueous Form
+1	Arcane Flight
+3	Security Bypass
+4	Abrade
+4	Grapeshot
+4	Mwonvuli Acid-Moss
+4	Coiling Oracle
+4	Pick Your Poison
+1	Scattered Thoughts
+4	Commune with Spirits
+1	Edge of Autumn
+3	Nylea's Presence
+3	Piracy Charm
+2	Momentary Blink
+2	Cloudshift
+3	Gingerbrute
+1	Nameless Inversion
+4	Augur of Skulls
+3	Vicious Rumors
+1	Kor Skyfisher
+2	Dusk Legion Zealot
+3	Haze of Pollen
+4	Witch's Cottage
+2	Bloodfell Caves
+1	Hidden Courtyard
+1	Hidden Necropolis
+4	Rust Goliath
+3	Shimmerdrift Vale
+1	Terramorphic Expanse
+1	Breaching Hippocamp
+1	Village Bell-Ringer
+4	Wild Cantor
+4	Demand Answers
+4	Rally at the Hornburg
+4	Wavesifter
+2	Seal of Removal
+3	Goblin Blast-Runner
+1	Savage Swipe
+4	Gorilla Shaman
+4	Hard Evidence
+2	Tainted Strike
+4	Navigator's Compass
+4	Silhana Ledgewalker
+4	Spider Umbra
+1	Quick Study
+4	Skred
+3	Forbidden Friendship
+2	Shimmering Wings
+1	Ghoulcaller's Bell
+3	Grapple with the Past
+3	Sakura-Tribe Scout
+4	Overgrowth
+4	Moon-Circuit Hacker
+2	Network Disruptor
+4	Ninja of the Deep Hours
+4	Snaremaster Sprite
+2	Pestermite
+4	Volcanic Spite
+4	Stern Dismissal
+2	Winds of Rebuke
+4	Darkmoss Bridge
+4	Oliphaunt
+4	Izzet Signet
+4	Mirrorshell Crab
+4	Draconic Roar
+2	Firebolt
+2	Muddle the Mixture
+2	Nimble Mongoose
+4	Demonic Dread
+4	Out of Air
