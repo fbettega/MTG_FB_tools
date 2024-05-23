@@ -1,0 +1,182 @@
+Common cards : 
+
+jund_creativity_bologne_first : titan_bologne : tutor_fb_version_may : yawg_meat_april_test_otj
+fatal push	1
+
+
+jund_creativity_bologne_first : titan_bologne : yawg_meat_april_test_otj
+boseiju, who endures	2
+
+
+jund_creativity_bologne_first : tutor_fb_version_may
+thoughtseize	2
+
+
+jund_creativity_bologne_first : tutor_fb_version_may : yawg_meat_april_test_otj : jund_creativity_bologne_first : tutor_fb_version_may : yawg_meat_april_test_otj
+thoughtseize	2
+fatal push	1
+
+
+jund_creativity_bologne_first : yawg_meat_april_test_otj
+pick your poison	2
+
+
+titan_bologne : tutor_fb_version_may
+the one ring	4
+
+
+titan_bologne : yawg_meat_april_test_otj : titan_bologne : yawg_meat_april_test_otj
+forest	2
+khalni garden	1
+
+
+tutor_fb_version_may : yawg_meat_april_test_otj : tutor_fb_version_may : yawg_meat_april_test_otj : tutor_fb_version_may : yawg_meat_april_test_otj : tutor_fb_version_may : yawg_meat_april_test_otj
+orcish bowmasters	3
+swamp	1
+takenuma, abandoned mire	1
+fatal push	1
+
+
+Separate Deck : 
+
+jund_creativity_bologne_first
+Maindeck :
+4	archon of cruelty
+4	fable of the mirror-breaker // reflection of kiki-jiki
+1	bitter triumph
+4	lightning bolt
+4	indomitable creativity
+4	persist
+1	transmogrify
+4	bitter reunion
+4	wrenn and six
+4	arid mesa
+2	blood crypt
+2	bloodstained mire
+2	commercial district
+4	dwarven mine
+1	mountain
+1	raucous theater
+3	scalding tarn
+1	stomping ground
+3	wooded foothills
+1	fatal push
+2	thoughtseize
+1	fatal push
+2	thoughtseize
+Sideboard :
+1	emrakul, the aeons torn
+2	surgical extraction
+1	tear asunder
+3	terastodon
+2	turn the earth
+2	veil of summer
+1	pick your poison
+
+
+titan_bologne
+Maindeck :
+1	expedition map
+4	explore
+4	summoner's pact
+4	amulet of vigor
+1	cultivator colossus
+3	dryad of the ilysian grove
+4	primeval titan
+4	arboreal grazer
+1	boros garrison
+1	slayers' stronghold
+1	mirrorpool
+1	windswept heath
+1	lush portico
+1	crumbling vestige
+1	valakut, the molten pinnacle
+1	tolaria west
+1	otawara, soaring city
+1	simic growth chamber
+2	vesuva
+3	the mycosynth gardens
+4	selesnya sanctuary
+4	urza's saga
+4	gruul turf
+1	boseiju, who endures
+Sideboard :
+1	bojuka bog
+1	castle garenbrig
+1	radiant fountain
+2	firespout
+2	spelunking
+1	relic of progenitus
+1	yasharn, implacable earth
+1	roxanne, starfall savant
+2	elesh norn, mother of machines
+1	generous ent
+
+
+tutor_fb_version_may
+Maindeck :
+1	blast zone
+4	cabal coffers
+3	cling to dust
+2	deadly cover-up
+2	demolition field
+4	field of ruin
+1	inquisition of kozilek
+4	karn, the great creator
+4	march of wretched sorrow
+4	profane tutor
+4	urborg, tomb of yawgmoth
+3	fatal push
+1	orcish bowmasters
+9	swamp
+2	thoughtseize
+3	fatal push
+2	thoughtseize
+3	fatal push
+Sideboard :
+1	cityscape leveler
+4	dauthi voidwalker
+1	engineered explosives
+1	ensnaring bridge
+1	oblivion stone
+4	shadow of doubt
+1	sundering titan
+1	the stone brain
+1	elixir of immortality
+
+
+yawg_meat_april_test_otj
+Maindeck :
+3	agatha's soul cauldron
+1	blood artist
+3	blooming marsh
+4	chord of calling
+4	delighted halfling
+1	endurance
+1	gilded goose
+4	grist, the hunger tide
+1	hapatra, vizier of poisons
+1	haywire mite
+2	misty rainforest
+2	overgrown tomb
+1	pendelhaven
+1	scavenging ooze
+1	sheoldred, the apocalypse
+1	strangleroot geist
+1	twilight mire
+2	underground mortuary
+4	verdant catacombs
+4	wall of roots
+4	yawgmoth, thran physician
+4	young wolf
+Sideboard :
+2	endurance
+2	force of vigor
+2	fulminator mage
+1	reclamation sage
+1	sheoldred's edict
+2	fatal push
+2	fatal push
+2	fatal push
+
+

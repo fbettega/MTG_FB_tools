@@ -100,7 +100,7 @@ ui <- navbarPage(
     )
   ),
   tabPanel(
-    "Side_from_data_entry_panel",
+    "Deck_selector_based_on_cards",
     sidebarPanel(
       wellPanel(
         shinyjs::useShinyjs(),
