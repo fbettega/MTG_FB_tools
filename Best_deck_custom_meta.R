@@ -28,33 +28,33 @@ list_format <- "txt"
 bool_analysis_to_do <- Check_deck_list_for_analysis(
   deck_list_path = deck_list_path,
   card_DB = card_DB,
-  list_format = list_format)
+  list_format = list_format
+)
 
 ################################################################################
 # les 2 chiffres sont proba de A et B / proba de B sachant A
-if(bool_analysis_to_do$pitch){
-pitch_cards <- Pitch_cards_evaluation(
-  deck_list_path = deck_list_path,
-  card_DB = card_DB,
-  list_format = list_format
+if (bool_analysis_to_do$pitch) {
+  pitch_cards <- Pitch_cards_evaluation(
+    deck_list_path = deck_list_path,
+    card_DB = card_DB,
+    list_format = list_format
   )
 }
 
 ################################################################################
-if(bool_analysis_to_do$fetch){
-result_opti <- Fetch_land_optimizer(
-  deck_list_path = deck_list_path,
-  card_DB = card_DB,
-  list_format = list_format
+if (bool_analysis_to_do$fetch) {
+  result_opti <- Fetch_land_optimizer(
+    deck_list_path = deck_list_path,
+    card_DB = card_DB,
+    list_format = list_format
   )
 }
 
 ################################################################################
-
-if(bool_analysis_to_do$wrenn){
-wreen_res <- Wrenn_fun_analysis(
-  deck_list_path = deck_list_path,
-  card_DB = card_DB,
-  list_format = list_format
+if (bool_analysis_to_do$wrenn) {
+  wreen_res <- Wrenn_fun_analysis(
+    deck_list_path = deck_list_path,
+    card_DB = card_DB,
+    list_format = list_format
   )
 }
